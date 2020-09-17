@@ -10,7 +10,7 @@ KaLi2020Sources轻松一键系统更新
 bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2020Sources/master/up.sh)
 
 
-KaLi2020Sources轻松一键安装搜狗输入法
+KaLi2020Sources轻松一键安装搜狗输入法(版本V2.3.2.07)
 
 
 bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2020Sources/master/sogou.sh)
