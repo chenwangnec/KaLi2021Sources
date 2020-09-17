@@ -5,5 +5,6 @@ bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2020Sources/ma
 
 
 KaLi2020Sources轻松一键系统更新
-bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2020Sources/master/up.sh)
 
+
+bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2020Sources/master/up.sh)
