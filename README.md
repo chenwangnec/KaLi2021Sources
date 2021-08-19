@@ -16,7 +16,7 @@
   bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2021Sources/master/sogou.sh)
 
 
-4、KaLi2021Sources轻松一键安装WPS(版本11.1.0.9615 2020.07.22)
+4、KaLi2021Sources轻松一键安装WPS(版本11.1. 20210819 更新解决 WPS字体问题)
 
 
   bash <(curl -sL https://raw.githubusercontent.com/chenwangnec/KaLi2021Sources/master/wps.sh)
